@@ -1,4 +1,8 @@
 hello  this is my git
 hello I love you 
 yes I love you too
+<<<<<<< HEAD
 I will make clash again
+=======
+I will make a clash
+>>>>>>> hello
